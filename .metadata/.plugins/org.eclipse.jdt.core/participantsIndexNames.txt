@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\82104\OneDrive\πŸ≈¡ »≠∏È\lec\lec_test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\668452042.index
+\lec_test\src\main\java
+C:\Users\82104\OneDrive\πŸ≈¡ »≠∏È\lec\lec_test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3056162152.index
+\lec_test\src\main\java
+C:\Users\82104\OneDrive\πŸ≈¡ »≠∏È\lec\lec_test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1523792401.index
+\lec_test\src\main\java
